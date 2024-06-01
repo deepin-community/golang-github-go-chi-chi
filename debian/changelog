@@ -1,5 +1,18 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-go-chi-chi (5.0.7-1) unstable; urgency=medium
+
+  * New upstream release.
+  * according to ratt no entry in Built-Using: of other packages
+
+ -- Thorsten Alteholz <debian@alteholz.de>  Wed, 05 Jan 2022 02:16:01 +0100
+
+golang-github-go-chi-chi (1.5.1-2) unstable; urgency=medium
+
+  * upload source package
+
+ -- Thorsten Alteholz <debian@alteholz.de>  Fri, 25 Dec 2020 15:53:38 +0000
+
+golang-github-go-chi-chi (1.5.1-1) unstable; urgency=medium
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Thorsten Alteholz <debian@alteholz.de>  Sun, 06 Dec 2020 16:05:53 +0000
